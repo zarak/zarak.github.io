@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>www.zarak.ca/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>www.zarak.ca/post/</loc>
+      <lastmod>2017-01-01T00:00:00+05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>www.zarak.ca/post/getting-started/</loc>
+      <lastmod>2017-09-03T00:00:00+05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>www.zarak.ca/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>www.zarak.ca/tags/hugo/</loc>
+      <lastmod>2017-09-03T00:00:00+05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>www.zarak.ca/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>www.zarak.ca/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>www.zarak.ca/</loc>
+      <lastmod>2017-10-15T00:00:00+05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
