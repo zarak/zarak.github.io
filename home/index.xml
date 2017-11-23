@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Zarak&#39;s Blog</title>
-    <link>www.zarak.ca/home/</link>
+    <link>https://zarak.github.io/home/</link>
     <description>Recent content in Homes on Zarak&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Zarak Mahmud</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0500</lastBuildDate>
-    <atom:link href="www.zarak.ca/home/" rel="self" type="application/rss+xml" />
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

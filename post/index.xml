@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zarak&#39;s Blog</title>
-    <link>www.zarak.ca/post/</link>
+    <link>https://zarak.github.io/post/</link>
     <description>Recent content in Posts on Zarak&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Zarak Mahmud</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0500</lastBuildDate>
-    <atom:link href="www.zarak.ca/post/" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>www.zarak.ca/post/getting-started/</link>
+      <link>https://zarak.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0500</pubDate>
       
-      <guid>www.zarak.ca/post/getting-started/</guid>
+      <guid>https://zarak.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 </description>
     </item>
